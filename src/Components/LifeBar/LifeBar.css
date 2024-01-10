@@ -1,0 +1,9 @@
+.life {
+    height: 5px;
+    width: 70vw;
+    border: 1px solid black;
+    & div {
+        background-color: greenyellow;
+        height: 100%;
+    }
+}
